@@ -12,7 +12,7 @@ dir=`$pwd` && cd /tmp && wget https://github.com/KooshaYeganeh/weather/archive/r
 
 ## use
 
-weather <city name>
+*weather < city name >*
 
 
 Example : 
