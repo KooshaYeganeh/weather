@@ -6,7 +6,7 @@ command Line weather Information tool with wttr API
 ## Install
 
 ```
-https://github.com/KooshaYeganeh/weather/archive/refs/heads/main.zip && unzip main.zip && cd weather-main && sudo cp weather /usr/bin && cd ..&& sudo rm -rf weather-main && echo "weather Installed Successfully [ OK ]"
+cd /tmp && wget https://github.com/KooshaYeganeh/weather/archive/refs/heads/main.zip && unzip main.zip && cd weather-main && sudo cp weather /usr/bin && cd ..&& sudo rm -rf weather-main && echo "weather Installed Successfully [ OK ]"
 ```
 
 
