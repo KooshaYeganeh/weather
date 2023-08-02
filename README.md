@@ -25,7 +25,7 @@ weather tabriz
 ## Remove
 
 ```
-sudo rm /usr/bin/weather
+sudo rm /usr/bin/weather && echo "weather Removed Successfully [ OK ]"
 ```
 
 
